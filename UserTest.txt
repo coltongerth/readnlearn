@@ -14,10 +14,14 @@
   After the book is finished, the child is directed back to the bookshelf. 
    
  3. Kid is reading and being read to
- Now that the app is ready for use, the child is directed to the bookshelf. The child wants to have the hungry caterpillar read to them. 
+ Now that the app is ready for use, the child is directed to the bookshelf. The child wants to have the hungry caterpillar read to them.
+ 
   The book is chosen, and they choose the read and listen feature. First page is then prompted for the child, which the application begins its reading.
+  
   The application reads the page one word at a time, going slowly for the child to grasp the meaning of the word while providing small animations
+  
   for every word read. Then the child must repeat the word with correct pronunciaton. The words are automatically iterated through when correctly read, however an easy swipe will go either forwards or backwards in the sentence.
+  
   After the book is finished, the child is directed back to the bookshelf. 
  
  4. Kid is reading to application

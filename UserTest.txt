@@ -1,0 +1,16 @@
+ 1. Parent/Teacher setting up application for child
+  
+  The parent or teacher is setting up the application for the first time for their child. From their prefered smart tablet company, they need
+  to install the app, "Read and Learn". Upon the first opening, they are guided to our main screen, the bookshelf. The bookshelf is empty at
+  first, the parent must download and install a book, either free to read or with an in app purchase. Regardless of choice, the parent enters
+  their apple/android password to verify purchase. The book is downloaded and installed into the application, making the app ready for use.
+  
+ 2. Kid is being read to by application
+    
+  Now that the app is ready for use, the child is directed to the bookshelf. The child wants to have the hungry caterpillar read to them. 
+  The book is chosen, and they choose the read feature. First page is then prompted for the child, which the application begins its reading.
+  The application reads the page one word at a time, going slowly for the child to grasp the meaning of the word while providing small animations
+  for every word read. The words are automatically iterated through, however an easy swipe will go either forwards or backwards in the sentence.
+  After the book is finished, the child is directed back to the bookshelf. 
+   
+ 3. Kid is reading and being read to

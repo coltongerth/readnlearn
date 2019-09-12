@@ -14,6 +14,9 @@
   After the book is finished, the child is directed back to the bookshelf. 
    
  3. Kid is reading and being read to
+ 
+ 4. Kid is reading to application
+    When receiving the tablet device from your parent, feel free to browse the library of books purchased on your device and choose a book that looks interesting to read. After choosing, pick the read option and prepare to begin reading your book. The book will display a sentence at a time, and you must correctly read each word in the sentence. The book keeps track of how many correct words you have read and will highlight the words green. Continue reading each sentence, while the book keeps track of the total correct words you’ve read. If you wish to pause, or get bored, you may close out of the app and pick up where you left off later. After completing the book, a score will be displayed that will show you the correct percentage of the book you read correctly. This score will be kept track of for later use to show you how much you’ve improved at reading. Once you’re done, show this score to your parent or teacher and continue on to your next book to complete!
 
 5. Testing the search funtionality of the bookstore.
 

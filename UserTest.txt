@@ -17,4 +17,6 @@
 
 5. Testing the search funtionality of the bookstore.
 
- The parent or teacher opens the application for their child. They view the books present in the application's library; all of the books have been read/heard several times by the child, so the parent decides to get a new book. They remember a specific book from their childhood and want to find it. The parent or teacher goes to the bookstore, searches for the book, then downloads and installs it for use.
+ The parent or teacher opens the application for their child. They view the books present in the application's library; all of the books
+ have been read/heard several times by the child, so the parent decides to get a new book. They remember a specific book from their
+ childhood and want to find it. The parent or teacher goes to the bookstore, searches for the book, then downloads and installs it for use.

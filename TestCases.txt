@@ -1,0 +1,69 @@
+Test 1: Initilize app
+
+input: 
+1. touch input
+1. Password of apple/android id
+
+
+tests: 
+1. Functionality of store
+2. Restriction of child from purchases
+3. Functionality of navigation
+
+output: 
+1. on successful password input, book is purchased and added to bookshelf
+2. on failiure, password is prompted multiple times before returning user to bookshelf.
+
+
+Test 2: kid is read to
+
+input: 
+1. touch input
+
+tests:
+1. functionality of bookshelf
+2. functionality of listen features
+
+output:
+1. Child has audio feedback from app as the book is read outloud.
+
+
+Test 3: Kid reads and listens
+
+input: 
+1. touch input
+2. audio input
+
+tests:
+1. functionality of bookshelf
+2. functionality of both listen and read features
+
+output:
+1. Child has audio feed back from app as well as visual feedback from successful pronunciation of word. 
+
+
+Test 4: Kid reads
+
+input: 
+1. touch input
+2. audio input
+
+tests:
+1. functionality of bookshelf
+2. functionality of read features
+
+output:
+1. Child has visual feedback from successful pronunciation of word and progresses to the next
+
+
+Test 5: User uses search feature.
+
+input: 
+1. touch input
+2. character input
+
+tests:
+1. functionality of bookstore's searching ability
+
+output:
+1. As user enters in characters, the selection of books is narrowed down to a specificly named book.

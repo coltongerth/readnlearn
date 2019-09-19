@@ -1,0 +1,37 @@
+Situation:
+Dr. Swain, a well-known education researcher, was awarded a grant from the DoE to enable
+incarcerated parents and grandparents to read books to their children via software. Your startup has
+been selected to create the reading software as part of a larger project.
+The software you have prototyped will interface with a secure network that enables voice
+communication between mobile devices. The institutions already have software in place to do this, and
+the software vendors have been contracted to work with your team on secure communication between
+devices. That firm has requested that your team have one person dedicated to developing the interface
+between the systems.
+
+In order to maintain funding, the DoE requires a demonstration of security requirements in three
+months, and a working prototype of the software (Beta testing) in six months. Assume you submitted
+low-fidelity prototypes and a set of functional and non-functional requirements when you bid this
+project. However, you were unaware of the security needs at that time.
+
+Answer the following questions:
+1. Who are the stakeholders? Describe each “type” of stakeholder and their primary needs and
+expectations.
+
+2. What are the risks of this project? How can you reduce risk?
+
+3. How does this change your functional requirements? Add the requirements to your list and
+include them in your response.
+
+4. This changes your non-functional requirements substantially. Add to your non-functional
+requirements and include them in your response.
+
+5. What requirements gathering methods are appropriate for this project? Which method(s) will
+you use with each stakeholder type and why?
+
+6. What verification and validation methods will you use for your requirements? Why?
+
+7. The security contractors would like to see a rough draft and schedule of your test plan before
+you begin. Please provide a draft.
+
+Please submit your document in APA format by Thursday, September 26. Be sure to include all group
+members’ names in the document.

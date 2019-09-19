@@ -16,20 +16,49 @@ project. However, you were unaware of the security needs at that time.
 Answer the following questions:
 1. Who are the stakeholders? Describe each “type” of stakeholder and their primary needs and
 expectations.
+ADMINISTRATIVE: Department of Corrections
+                Dr. Swain
+                
+USERS:          Parents
+                Children
+                Testing Institution
+
 
 2. What are the risks of this project? How can you reduce risk?
 There are several risks for this project. The developer is facing a time constraint which may be difficult to meet. As a startup, the developer most likely has limited manpower to commit to working on this project. If the product doesn't receive continued funding, it could also put financial constraints on the developer. For the prisons, there is concern of inmates using the product for other purposes, such as communications with people other than their child. For the DoE, there is concern of whether or not the product will work.
 
+                  [FORMAT: Risk:Solution]
+Data Breaches: Facial recognition, fingerprint recognition
+Bankruptcy: work harder
+Time constraints: work harder
+Lacking of developers: work harder
+Grants and Deadlines: sweettalk stakeholders
+
 3. How does this change your functional requirements? Add the requirements to your list and
 include them in your response.
+A 2-way connection between parent and child. 
+Audio input and output for both ends of the users.
+Iteration of words and pages of  books during reading.
+
 
 4. This changes your non-functional requirements substantially. Add to your non-functional
 requirements and include them in your response.
+Family friendly selection of books.
+Facial or fingerprint recognition to verify user authenticity.
 
 5. What requirements gathering methods are appropriate for this project? Which method(s) will
 you use with each stakeholder type and why?
 
+Field observation: We let the parents interact with the software at their leizure, taking in what is easily accessable and what
+funtions are more difficult to use.
+
+Interview: After observations are made, we can ask more personal questions about the applications, what they like and dont like
+about the system.
+
+
 6. What verification and validation methods will you use for your requirements? Why?
+
+Alpha testing and Beta testing in order to confirm success of software, and validate that it functions in the hands of users.
 
 7. The security contractors would like to see a rough draft and schedule of your test plan before
 you begin. Please provide a draft.
